@@ -5,6 +5,7 @@ LeafMart is an innovative platform for buying and selling plants, designed to co
 ## Table of Contents
 
 - [Features](#features)
+- [UI](#ui)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Contribution](#contribution)
@@ -17,6 +18,11 @@ LeafMart is an innovative platform for buying and selling plants, designed to co
 - **Real-time Updates:** Live updates on plant listings and availability.
 - **Comprehensive Plant Database:** Detailed information on various plant species.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
+
+## UI
+![Screenshot 2024-07-28 202635](https://github.com/user-attachments/assets/013a5842-4c50-4f1d-bdf9-7a950b8d318e)
+
+![Screenshot 2024-07-28 202728](https://github.com/user-attachments/assets/e5221d82-5768-4d92-8dc2-d6006a4f6b17)
 
 ## Technology Stack
 
