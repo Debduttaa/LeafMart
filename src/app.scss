@@ -1,0 +1,25 @@
+*{
+    .link{
+        text-decoration: none;
+        color: inherit;
+    }
+}html{
+    
+    overflow-x: hidden;
+    scroll-padding-top: 4rem;
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar{
+    width: 1rem;
+    height: 3rem;
+}
+
+html::-webkit-scrollbar-track{
+  background: transparent;
+}
+  
+html::-webkit-scrollbar-thumb{
+    background: rgb(190, 150, 101);
+    border-radius: 5rem;
+}
